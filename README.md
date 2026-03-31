@@ -1,3 +1,5 @@
 # css-my-site project
-![Screenshot]Screenshot.jpg
-[Live Demo](https://rinki88.github.io/cssmysite/index.html)
+
+![Screenshot](Screenshot.jpg)
+
+[Live Demo](https://rinki88.github.io/my-site/)
