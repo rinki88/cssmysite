@@ -1,2 +1,3 @@
 # css-my-site project
-[Screenshot] Screenshot_20260331-040244_DuckDuckGo.jpg
+![Screenshot]Screenshot.jpg
+[Live Demo](https://rinki88.github.io/cssmysite/index.html)
