@@ -2,4 +2,4 @@
 
 ![Screenshot](Screenshot.jpg)
 
-[Live Demo](https://rinki88.github.io/my-site/)
+[Live Demo](https://rinki88.github.io/my-own-portfolio/))
